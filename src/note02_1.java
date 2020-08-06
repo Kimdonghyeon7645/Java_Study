@@ -1,5 +1,5 @@
 /* 자바 02-1-변수, 02-2-데이터 타입 */
-public class note_1 {
+public class note02_1 {
     public static void main(String[] args) {
         // 변수의 선언
         int age;
